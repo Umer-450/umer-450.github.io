@@ -1,0 +1,33 @@
+body {
+    background: burlywood;
+    color: #fff;
+    padding: 25px;
+    font-family: sans-serif;
+	margin: 0 auto;
+}
+
+img {
+	width: 300px;
+	border-radius: 50px;
+	margin-inline-end: 4rem;
+}
+
+h1 {
+	font-size: 50px;
+}
+
+a {
+	text-decoration: none;
+	color: white;
+	background: dodgerblue;
+	padding: 0 1rem;
+	height: 2.5rem;
+	display: inline-flex;
+	align-items: center;
+	border-radius: 1.5rem;
+	
+}
+
+.bio {
+	display: flex;
+}
